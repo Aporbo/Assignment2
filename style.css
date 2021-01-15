@@ -28,13 +28,18 @@ footer{
     float: left;
 }
 .orange-highlight{
-   padding-top: 50px;
+   margin-top: 15%;
     color:orange;
 }
 .dark-highligh{
+    
     color: rgb(52, 52, 114);
 }
+#para{
+    margin-bottom: 80px;
+}
 .link-button{
+    
     padding: 15px 15px 15px 15px;
     color: white;
     text-decoration: none;
