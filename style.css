@@ -1,0 +1,75 @@
+.card{    
+    object-fit: contain;
+    padding: 2px 2px 2px 2px;
+    border:rgb(151, 84, 84);
+    border-radius: 10px;
+  box-shadow:lavender ;
+}
+footer{
+    text-align: center;
+}
+#sec1{
+    margin-top: 20px;
+    background-color:whitesmoke;
+}
+.navbar-brand{
+    margin-right: 50px;
+}
+.nav-link{
+    margin-left: 20px;
+}
+.fist-div{
+    float: left;
+}
+.orange-highlight{
+   padding-top: 50px;
+    color:orange;
+}
+.dark-highligh{
+    color: rgb(52, 52, 114);
+}
+.link-button{
+    padding: 15px 15px 15px 15px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 500;
+background-color: rgba(106, 192, 7, 0.781);
+}
+body{
+    margin-left: 60px;
+}
+.bcgray{
+    background-color: rgb(207, 206, 206);
+    border-radius: 30px;
+   }
+   .forfloat{
+       padding-right: 60px;
+       float: left;
+   }
+.d{
+    float:left;
+}
+
+.latsec{
+    float: left;
+}
+.f{
+    float: right;
+}
+.formargin{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.buy-now-button{
+    background-color: rgb(67, 161, 67);
+    border-radius: 10px;
+}
+.forh3{
+     margin-top: 30px;
+    color: rgb(0, 255, 55);
+}
+.forh2{
+    margin-top: 30px;
+   color: rgb(6, 204, 39);
+}
